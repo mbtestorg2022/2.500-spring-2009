@@ -34,7 +34,7 @@ Introduction to water supply
 
 Specter, Michael. "[The Last Drop](http://www.newyorker.com/archive/2006/10/23/061023fa_fact1)." _The New Yorker_, October 23, 2006.
 
-Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://unesdoc.unesco.org/images/0012/001295/129556e.pdf))
+Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. ([PDF](http://unesdoc.unesco.org/images/0012/001295/129556e.pdf))
 
 Reynolds, T. D., and P. A. Richards. "Water Quality." In _Unit Operations and Processes in Environmental Engineering_. Boston, MA: PWS Publishing, 1995, pp. 78-91. ISBN: 9780534948849.
 
@@ -148,7 +148,7 @@ Reverse Osmosis Systems ([PDF - 2.9MB]({{< baseurl >}}/resources/mit2_500s09_lec
 Introduce term project. Electrodialysis
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecture: Amy Smith (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit2_500s09_lec09)) (Courtesy of Amy Smith. Used with permission.)
+Guest lecture: Amy Smith ([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_500s09_lec09)) (Courtesy of Amy Smith. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +288,7 @@ Miller, James E. "Review of Water Resources and Desalination Technologies." Sand
 Discussion of term project. Details about Haiti
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecture: Amanda Adams, Mercy and Sharing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.2MB]({{< baseurl >}}/resources/mit2_500s09_lec20)) (Courtesy of Ray Ginther and Amy Smith. Used with permission.)
+Guest lecture: Amanda Adams, Mercy and Sharing ([PDF - 3.2MB]({{< baseurl >}}/resources/mit2_500s09_lec20)) (Courtesy of Ray Ginther and Amy Smith. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +360,7 @@ Ettouney, H., and L. Rizzuti. "Solar Desalination: A Challenge for Sustainable F
 Solar desalination systems; CSP water/power cogeneration
 {{< tdclose >}}
 {{< tdopen >}}
-Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.4MB](http://www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/projects/aqua-csp/AQUA-CSP-Full-Report-Final.pdf))
+Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. ([PDF - 7.4MB](http://www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/projects/aqua-csp/AQUA-CSP-Full-Report-Final.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
